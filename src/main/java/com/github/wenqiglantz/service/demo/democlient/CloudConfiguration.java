@@ -5,7 +5,7 @@ import org.springframework.cloud.openfeign.FeignAutoConfiguration;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@EnableFeignClients
+//@EnableFeignClients
 //@ImportAutoconfiguration({FeignAutoConfiguration.class})
 public class CloudConfiguration {
 
